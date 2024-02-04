@@ -1,0 +1,6 @@
+streamlit==0.79.0
+torch==1.12.1
+scikit-learn==1.2.2
+joblib
+bs4
+email
